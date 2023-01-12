@@ -11,5 +11,5 @@ def predict_gen(meta1):
   #  x = norma.transform([meta1])
     pred = data.predict(meta1)
     return([pred[0]])
-  
-  
+
+    
